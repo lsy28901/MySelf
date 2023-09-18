@@ -4,7 +4,7 @@ public class MySelfLsy {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("저는 이수연 입니다.");
+		System.out.println("저는 이수연 입니다.jjjj");
 	}
 
 }
